@@ -1340,6 +1340,8 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="Familiares", Futurama Manía | HD | Colombia
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/322081717
 
+#EXTINF: -1 tvg-name="https://i.imgur.com/aQKN8Dx.png" group-title="Canales de TV", Simpson Manía | HD | Colombia
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/346097264
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ThA7Ss3.png" group-title="Familiares", Simpsons 24/7 | SD 
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341220568
