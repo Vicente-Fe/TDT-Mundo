@@ -112,7 +112,7 @@ https://v2.tustreaming.cl/campoabierto/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fwboImE.png" group-title="Chile", Tendencias Prime 31 | HD | Ñuñoa
 https://v2.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXDY15q.png" group-title="Familiares", Kanade TV | HD | Chile 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXDY15q.png" group-title="Chile", Kanade TV | HD | Chile 
 https://stream.jetixtv.club/hls/kanade.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENiyuA1.png" group-title="Chile", Ceac TV | HD 
@@ -1340,7 +1340,7 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="Familiares", Futurama Manía | HD | Colombia
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/322081717
 
-#EXTINF: -1 tvg-name="https://i.imgur.com/aQKN8Dx.png" group-title="Canales de TV", Simpson Manía | HD | Colombia
+#EXTINF: -1 tvg-name="https://i.imgur.com/aQKN8Dx.png" group-title="Familiares", Simpson Manía | HD | Colombia
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/346097264
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ThA7Ss3.png" group-title="Familiares", Simpsons 24/7 | SD 
