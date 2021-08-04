@@ -6,7 +6,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:29/07/2021
+#ultima actualizacion:04/08/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -46,8 +46,8 @@ http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="Chile", Canal 9 | SD | Concepción
 https://unlimited2-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yTvGx2x.png" group-title="Chile", Radio TV Pop | HD 
-https://v4.tustreaming.cl/poptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXDY15q.png" group-title="Familiares", Kanade TV | HD | Chile 
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/347377023
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9K9lQl6.jpg" group-title="Chile", Santiago TV| FHD | Santiago
 https://stv.janus.cl/playlist/stream.m3u8
@@ -112,8 +112,8 @@ https://v2.tustreaming.cl/campoabierto/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fwboImE.png" group-title="Chile", Tendencias Prime 31 | HD | Ñuñoa
 https://v2.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXDY15q.png" group-title="Familiares", Kanade TV | HD | Chile 
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/347386903
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTvGx2x.png" group-title="Chile", Radio TV Pop | HD 
+https://v4.tustreaming.cl/poptv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENiyuA1.png" group-title="Chile", Ceac TV | HD 
 https://hd.chileservidores.cl:1936/ceactv/ceactv/chunklist_w183177640.m3u8
