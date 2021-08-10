@@ -6,7 +6,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:08/08/2021
+#ultima actualizacion:10/08/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -16,8 +16,8 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D2bZtPA.png" group-title="Leeme",- Última Actualización - 08/08/2021 -
-https://i.imgur.com/KuqaZul.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2bZtPA.png" group-title="Leeme",- Última Actualización - 10/08/2021 -
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/352332894
 
 
 
@@ -85,7 +85,7 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Chile", Meganoticias | HD | Santiago
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPUYBfM.png" group-title="Chile", Bio Bio TV | FHD | Providencia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPUYBfM.png" group-title="Chile", Bio Bio TV | SD | Providencia
 https://unlimited2-cl-movistar.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="Chile", 24 Play | HD | Santiago
@@ -799,8 +799,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab47
 https://i.imgur.com/KuqaZul.mp4
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/UCXDQcD.png" group-title="Deportes", Match TV | SD | Rusia
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319432014
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="Deportes", Teletrak | SD | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
@@ -814,38 +812,11 @@ https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aSrFtpv.png" group-title="Deportes", All Sports | HD | Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1188826163.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oZGfpO8.png" group-title="Deportes", Red Bull TV | FHD | Austria
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbQsokj.png" group-title="Deportes", Swiss Sport TV | HD | Suiza
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Deportes", RTV Sport  | SD | San Marino
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
-
-
-
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7D9mtKw.png" group-title="Deportes",Racing.com | HD | Australia
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XJDzZfz.png" group-title="Deportes", Sky Racing 1 | HD | Australia
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XJDzZfz.png" group-title="Deportes", Sky Racing 2 | HD | Australia
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZrbcTZJ.jpg" group-title="Deportes", Stadium Sports Network | FHD | Estados Unidos
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h6W8X9k.png" group-title="Deportes", Fuel TV| SD | Estados Unidos
 https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QS1mIdW.png" group-title="Deportes", MLB | HD | Estados Unidos
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/322035440
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuTHWRh.png" group-title="Deportes", ESPN | HD | Estados Unidos
+http://stream2.grandma.fit/fs2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8PpFdD.png" group-title="Deportes",Bek Sports East | SD | Estados Unidos
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
@@ -856,14 +827,87 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Deportes",Lax Sports Network | HD | Estados Unidos
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Deportes", TDM Sports | SD | Macao
-http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZrbcTZJ.jpg" group-title="Deportes", Stadium Sports Network | FHD | Estados Unidos
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="Deportes", Fuel TV | HD | Estados Unidos
+https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="Deportes", Fuel TV | HD | Estados Unidos | Alt.
+https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0RetV6.png" group-title="Deportes", FreeSports | FHD | Reino Unido
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZGfpO8.png" group-title="Deportes", Red Bull TV | FHD | Austria
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mbQsokj.png" group-title="Deportes", Swiss Sport TV | HD | Suiza
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Deportes", RTV Sport  | SD | San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3PqutEf.png" group-title="Deportes", ERT Sports | FHD | Grecia
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png" group-title="Deportes", Arryadia 3| SD | Marruecos
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxPfvwL.png" group-title="Deportes",LookSport  | SD | Rumanía
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UCXDQcD.png" group-title="Deportes", Match TV | SD | Rusia
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319432014
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9bH6PBu.png" group-title="Deportes",Fast&Fun Box | SD | Rusia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s79/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JxVrtwL.png" group-title="Deportes",Setanta Sports Eurasia | SD | Rusia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s81/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/DqF46gA.png" group-title="Deportes",Setanta Sports 2 Eurasia | SD | Rusia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s82/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Deportes", TDM Sports | SD | Macao
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7hCiMF.png" group-title="Deportes",FOX Sports Asia Thai | HD | Tailandia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7hCiMF.png" group-title="Deportes",FOX Sports 2 Asia Thai | HD | Tailandia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7hCiMF.png" group-title="Deportes",FOX Sports 3 Asia Thai | HD | Tailandia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" group-title="Deportes",Golf Channel Thailand | HD | Tailandia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jNNiD4X.png" group-title="Deportes",FOX Sports Australia | HD | Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7D9mtKw.png" group-title="Deportes",Racing.com | HD | Australia
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJDzZfz.png" group-title="Deportes", Sky Racing 1 | HD | Australia
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJDzZfz.png" group-title="Deportes", Sky Racing 2 | HD | Australia
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51PCxvI.jpg" group-title="Deportes", Door Darshan Sports | HD | India
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EN9Hlln.png" group-title="Deportes",One Golf | HD | Pakistán
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="Deportes", KTB Sports Plus | HD | Kuwait
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iAgz934.png" group-title="Deportes", Abu Dhabi Sports | HD | Emiratos Árabes 
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
@@ -892,12 +936,8 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jD1HjhK.png" group-title="Deportes", YAS Sports | HD | Emiratos Árabes
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="Deportes", KTB Sports Plus | HD | Kuwait
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/51PCxvI.jpg" group-title="Deportes", Door Darshan Sports | HD | India
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png" group-title="Deportes", Arryadia 3| SD | Marruecos
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 
 
@@ -1395,7 +1435,7 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFWjIk1.png" group-title="Familiares", Chinola TV | SD | Rep. Dominicana
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OTxBese.png" group-title="Familiares", TV Educa Chile| HD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDVQ8WR.png" group-title="Familiares", NTV | HD | Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="Familiares", Ipe | HD | Perú
