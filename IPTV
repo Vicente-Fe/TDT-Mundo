@@ -1357,7 +1357,7 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yExiZAQ.png" group-title="España", ETB SAT País Vasco | SD | Vasco
-https://i.imgur.com/Cc1CypC.mp4
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3V0F1G/unnamed.jpg" group-title="España", Hamaika Telebista | HD | Vasco
@@ -1726,9 +1726,8 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l1zzq8S.png" group-title="Colombia", Canal Institucional | HD | Bogotá
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWvKJzr.png" group-title="Colombia", Canal Visión Dorada | SD | Caldas
-https://i.imgur.com/Cc1CypC.mp4
+https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jn20Wjw.png" group-title="Colombia", Suram TV | HD | Yopal
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w814907456.m3u8
@@ -2211,7 +2210,7 @@ https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w56421689.m3u8
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/351106893
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I5BYJ1s.png" group-title="Venezuela", Corazón Llanero| SD
-https://i.imgur.com/Cc1CypC.mp4
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z1OgEJD.png" group-title="Venezuela", Televisora de Oriente| SD 
@@ -3328,11 +3327,7 @@ http://media.profesionalhosting.com:1935/8175/8175/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nMzCAdy.png" group-title="España", Cáceres TV | HD | Cáceres
 https://ce2019100818001.dnssw.net/hls/ceres.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aWvKJzr.png" group-title="Colombia", Canal Visión Dorada | SD | Caldas
-https://movil.ejeserver.com/live/visiondorada.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I5BYJ1s.png" group-title="Venezuela", Corazón Llanero| SD
-https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yExiZAQ.png" group-title="España", ETB SAT País Vasco | SD | Vasco
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+ 
+
+
