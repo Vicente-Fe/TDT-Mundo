@@ -6,7 +6,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:13/08/2021
+#ultima actualizacion:30/08/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -16,7 +16,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D2bZtPA.png" group-title="Leeme",- Última Actualización - 13/08/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2bZtPA.png" group-title="Leeme",- Última Actualización - 30/08/2021 -
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/352332894
 
 
@@ -25,7 +25,7 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/352332894
 https://i.imgur.com/EwJbXKm.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Chile", UCV  | SD | Valparaíso
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Chile", UCV | SD | Valparaíso
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="Chile", La Red | FHD | Santiago
@@ -40,8 +40,8 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVy05TP.png" group-title="Chile", TVN Chile | HD | Santiago 
 http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxlQ1we.png" group-title="Chile", UES TV| HD | Santiago
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9K9lQl6.jpg" group-title="Chile", Santiago TV| FHD | Santiago
+https://stv.janus.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="Chile", Canal 9 | SD | Concepción
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
@@ -49,14 +49,14 @@ https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXDY15q.png" group-title="Familiares", Kanade TV | HD | Chile 
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/347377023
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9K9lQl6.jpg" group-title="Chile", Santiago TV| FHD | Santiago
-https://stv.janus.cl/playlist/stream.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cXknSUb.jpg" group-title="Chile", High Music | HD | San Antonio
+https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/73GFSp6.png" group-title="Chile", TV Costa | HD | San Antonio
+https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/chunklist_w1148078297.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Chile", Contivisión | HD | Constitución
 http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XJiywBJ.png" group-title="Chile", Canal 13 | HD | Santiago
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341232461
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="Chile", Tevex | HD | Santiago
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
@@ -67,8 +67,8 @@ https://livefocamundo.com:8081/arabtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JIumOcq.png" group-title="Chile", Raíces Árabes | HD | Chile
 https://stmv2.zcastbr.com/julio4589/julio4589/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iZ6B9VC.jpg" group-title="Chile", Hiper TV | SD | Santiago
-http://inliveserver.com:1935/11010/11010/chunklist_w2025308039.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxlQ1we.png" group-title="Chile", UES TV| HD | Santiago
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="Chile", Chile Channel | HD | Santiago
 https://v2.tustreaming.cl/chilechannel/index.m3u8
@@ -111,6 +111,9 @@ https://v2.tustreaming.cl/campoabierto/live1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fwboImE.png" group-title="Chile", Tendencias Prime 31 | HD | Ñuñoa
 https://v2.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iZ6B9VC.jpg" group-title="Chile", Hiper TV | SD | Santiago
+http://inliveserver.com:1935/11010/11010/chunklist_w2025308039.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yTvGx2x.png" group-title="Chile", Radio TV Pop | HD 
 https://v4.tustreaming.cl/poptv/index.m3u8
@@ -184,11 +187,11 @@ https://5eae379fb77bb.streamlock.net/rauleduardo493/rauleduardo493/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="Chile", Canal VTV| HD | Los Andes - San Felipe
 http://unlimited1-cl.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/icRZe9N.png" group-title="Chile", Frecuencia 7| HD | Los Andes 
-https://5eae379fb77bb.streamlock.net/8048/8048/chunklist_w1287602443.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kq3sPyV.png" group-title="Chile", Canal 57 | SD | Melipilla
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icRZe9N.png" group-title="Chile", Frecuencia 7| HD | Los Andes 
+https://5eae379fb77bb.streamlock.net/8048/8048/chunklist_w1287602443.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qqW7W2t.png" group-title="Chile", Vox Populi | HD | Algarrobo
 https://i.imgur.com/Cc1CypC.mp4
@@ -236,11 +239,11 @@ https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39dqkkP.png" group-title="Chile", Sextavisión| HD | Rancagua
 https://5eae379fb77bb.streamlock.net/8042/8042/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3sXScBo.png" group-title="Chile", Pichilemu TV | FHD | Pichilemu
-http://play.streaminghd.cl/roberto886/roberto886/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="Chile", Canal 74 | HD | Placilla
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3sXScBo.png" group-title="Chile", Pichilemu TV | FHD | Pichilemu
+http://play.streaminghd.cl/roberto886/roberto886/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fvnO1X9.png" group-title="Chile", TVO | HD | San Vicente
 https://unlimited2-cl-movistar.dps.live/tvo/tvo.smil/tvo/livestream1/chunks.m3u8
@@ -1384,8 +1387,11 @@ https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo = " https://i.imgur.com/y9WS8N8.png " group-title = "Familiares", Tele animacion | HD | España 
 https://live.admefy.com/live/default/socialist_azure_5d76a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | Rep. Dominicana 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFDhzBy.png" group-title="Familiares", Locomotion | SD | Rep. Dominicana 
 http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFDhzBy.png" group-title="Familiares", Locomotion | SD | Rep. Dominicana | Alt.
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone | SD | Rep. Dominicana 
 http://azxtv.com/hls/stream.m3u8
@@ -2237,7 +2243,7 @@ https://i.imgur.com/xWk04pl.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXknSUb.jpg" group-title="Musicales", High Music | HD | Chile
-http://96.30.193.226:81/hls/highmusic.m3u8
+https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asv094P.jpg" group-title="Musicales", Classic Arts Showcase| HD | Estados Unidos
 https://d3s1xaoyhrialn.cloudfront.net/CAS/index_720p30.m3u8
