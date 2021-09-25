@@ -6,7 +6,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:23/09/2021
+#ultima actualizacion:25/09/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -16,7 +16,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D2bZtPA.png" group-title="Leeme",- Última Actualización - 23/09/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2bZtPA.png" group-title="Leeme",- Última Actualización - 25/09/2021 -
 https://i.imgur.com/KuqaZul.mp4
 
 
@@ -900,14 +900,14 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Deportes", Garage TV | HD | Argentina
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zac5ywV.png" group-title="Deportes", Cazavisión| HD | España
-https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aSrFtpv.png" group-title="Deportes", All Sports | HD | Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1188826163.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OjJ1dVF.png" group-title="Deportes", Futbol Network | HD | Estados Unidos
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kBEzdqQ.png" group-title="Deportes", MLS Network  | HD | Estados Unidos
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/390242052
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h6W8X9k.png" group-title="Deportes", Fuel TV| SD | Estados Unidos
 https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
@@ -945,8 +945,6 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Deportes", RTV Sport  | SD | San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3PqutEf.png" group-title="Deportes", ERT Sports | FHD | Grecia
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxPfvwL.png" group-title="Deportes",LookSport  | SD | Rumanía
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
@@ -969,17 +967,6 @@ http://ott-cdn.ucom.am/s82/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Deportes", TDM Sports | SD | Macao
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v7hCiMF.png" group-title="Deportes",FOX Sports Asia Thai | HD | Tailandia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v7hCiMF.png" group-title="Deportes",FOX Sports 2 Asia Thai | HD | Tailandia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v7hCiMF.png" group-title="Deportes",FOX Sports 3 Asia Thai | HD | Tailandia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" group-title="Deportes",Golf Channel Thailand | HD | Tailandia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -1066,8 +1053,7 @@ https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfwd9a.png" group-title="Cristianos", Monte María | HD | Católico | México
-http://162.212.176.51:1935/live/myStream/playlist.m3u8
-
+https://rbaca.livestreamingcdn.com/envivo3/smil:live.smil/chunklist_w240308960_b1660000_slESP.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnElTcl.png" group-title="Cristianos", La Voz de María| SD | Católico | Rep. Dominicana
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
@@ -1207,10 +1193,13 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/351075605
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9LG72kS.png" group-title="Internacionales", Univisión | HD | Estados Unidos
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/351075606
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yTfde9d.png" group-title="Canales de TV", Telemundo 40 Arizona | SD | Estados Unidos
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yTfde9d.png" group-title="Internacionales", Telemundo 31 Orlando | SD | Estados Unidos
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/390192002
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yTfde9d.png" group-title="Internacionales", Telemundo 40 Arizona | SD | Estados Unidos
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/351075915
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yTfde9d.png" group-title="Canales de TV", Telemundo 44 Washington | SD | Estados Unidos
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yTfde9d.png" group-title="Internacionales", Telemundo 44 Washington | SD | Estados Unidos
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/351076276
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HPlH24n.png" group-title="Internacionales", Unifé Internacional | SD | Argentina
@@ -1245,7 +1234,7 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341243234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" group-title="España",Visión 6 TV | SD | Albacete
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vnHtMiW.png" group-title="España", Distrito TV | HD | Madrid
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ipOl19z.png" group-title="España", Distrito TV | HD | Madrid
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoLzrO2.jpg" group-title="España", DKiss | HD
@@ -1392,7 +1381,7 @@ https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IvOTHIU.png" group-title="España", 24h | HD | Madrid
 https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://eltorotv.com/wp-content/uploads/2020/01/logo-eltorotv.jpg" group-title="España", EL Toro| SD | Madrid
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OOrACm.png" group-title="España", EL Toro| SD | Madrid
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7P8mK1.png" group-title="España", Canal 33 | HD | Madrid
@@ -1818,6 +1807,8 @@ https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/us2BUan.png" group-title="Ecuador", -Ecuador-
 https://i.imgur.com/AEwCoaQ.mp4
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AwUFUOS.png" group-title="Ecuador", Ecuador TV | HD
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/390184923
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1SG7AyF.png" group-title="Ecuador", Hechos TV | HD
 http://37.187.7.106/hechostv/live.m3u8
